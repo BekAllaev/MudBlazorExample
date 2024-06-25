@@ -1,4 +1,5 @@
 # MudBlazorExample
 
-Just a little Blazor (.NET 8) with MudBlazor example. I've used 'feature' folders for the folder/file structure in this
-example, just incase you wonder what the heck is going on ;-)
+This project is valuable because: 
+1. This is Blazor Web App with MudBlazor where we can change dark/light theme mode
+2. Because it has sample of dashboard
